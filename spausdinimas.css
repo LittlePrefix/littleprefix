@@ -1,0 +1,14 @@
+@media print {
+    body {
+        font-family: "Times New Roman", serif;
+    }
+
+    img, table {
+        display: block;
+        margin: 0 auto;
+    }
+    
+    p {
+        text-align: justify;
+    }
+}
